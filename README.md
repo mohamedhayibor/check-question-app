@@ -1,4 +1,4 @@
-# check-question-app ![](https://img.shields.io/badge/status-stable-green.svg)
+# check-question-app
 
 This is an Electron app (cross-platform: windows, mac, linux) that prompts the user in asking better questions.
 
