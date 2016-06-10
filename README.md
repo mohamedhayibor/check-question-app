@@ -1,6 +1,6 @@
 # check-question-app ![](https://img.shields.io/badge/status-stable-green.svg)
 
-This an Electron you (cross-platform: windows, mac, linux) prompts the user in asking better questions.
+This is an Electron app (cross-platform: windows, mac, linux) that prompts the user in asking better questions.
 
 ## Demo
 
