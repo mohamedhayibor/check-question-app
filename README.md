@@ -11,6 +11,8 @@ This is an Electron app (cross-platform: windows, mac, linux) that prompts the u
 Everybody becomes happy with better questions. They yield better answers and just makes the internet (world) better. :sunglasses:
 
 ## Want to download?
+Head over the [build documentation](http://electron.atom.io/docs/development/)
+
 > send an issue if you can't figure out how the app for your system. I had an issue with it and currently trying to resolve it.
 
 ## Related
